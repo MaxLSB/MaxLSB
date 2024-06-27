@@ -1,4 +1,4 @@
-# Hello
+# Hello 😊
 
 I'm Maxence, 2nd year student at Telecom SudParis, France. 
 
