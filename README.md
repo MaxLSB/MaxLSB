@@ -1,6 +1,6 @@
 # Hello 😊
 
-I'm Maxence, 2nd year student at Telecom SudParis, France. 
+I'm Maxence, ML Student in M2 MASH (ENS x Paris Dauphine -PSL) | Telecom SudParis, France. 
 
 ### Work Experience
 
