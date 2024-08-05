@@ -1,6 +1,6 @@
 # Hello 😊
 
-I'm Maxence, ML Student in M2 MASH (ENS x Paris Dauphine -PSL) & 3rd year at Telecom SudParis, France. 
+I'm Maxence, ML Student in M2 MASH (ENS x Paris Dauphine - PSL) & 3rd year at Telecom SudParis, France. 
 
 ### Work Experience
 
