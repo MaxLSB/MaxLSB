@@ -1,6 +1,6 @@
 # Hello 😊
 
-I'm Maxence, French Student in M2 MASH (ENS x Paris Dauphine - PSL) & 3rd year at Telecom SudParis, France. 
+I'm Maxence, a French Machine Learning Student in the M2 MASH program at ENS/Paris Dauphine-PSL and third-year at Télécom SudParis, France.
 
 ### Work Experience
 
