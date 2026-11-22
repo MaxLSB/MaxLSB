@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### PhD Student @ [LightOn](https://www.lighton.ai/) @ [Inria](https://inria.fr/en)
+#### Member of Technical Staff @ [Liquid AI](https://www.liquid.ai/)
 
 [🌐 Website](https://maxlsb.github.io/) • [🤗 Hugging Face](https://huggingface.co/MaxLSB) • [🎓 Google Scholar](https://scholar.google.com/citations?user=MmqCJi4AAAAJ&hl=en)
 
